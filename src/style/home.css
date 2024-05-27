@@ -1,0 +1,15 @@
+.container-home {
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.home-cake {
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.39rem;
+}
+
+
